@@ -1,5 +1,5 @@
-#ifndef MINI_LOG_H
-#define MINI_LOG_H
+#ifndef MINI_LOG_CONF_H
+#define MINI_LOG_CONF_H
 
 #define LOGGER_VERBOSITY_LEVEL LoggerVLevelInfo
 #define LOGGER_USE_COLOUR
