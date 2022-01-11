@@ -11,8 +11,7 @@
 
 /*
  * Estas funciones son para hacer más fácil el trabajo con paths. Todo se basa
- * en la premisa de que un path es solo un char* con las características y
- * largos definidos en common.h
+ * en la premisa de que un path es solo un char*.
  * Está demás decir que los paths deben estar en estilo UNIX.
  */
 
